@@ -2,6 +2,7 @@
 A lightweight WordPress plugin that displays YouTube channel videos in a responsive grid layout with load more functionality.
 
 ![Project Banner](Preview.png)
+![Project Banner](dashboard.png.png)
 
 
 ## 🚀 Features
