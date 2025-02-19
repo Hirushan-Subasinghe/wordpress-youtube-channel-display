@@ -1,4 +1,4 @@
-# wordpress-youtube-channel-display
+# Wordpress Youtube Channel Display
 A lightweight WordPress plugin that displays YouTube channel videos in a responsive grid layout with load more functionality.
 
 ![Project Banner](Preview.png)
